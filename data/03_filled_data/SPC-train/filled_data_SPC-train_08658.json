@@ -1,0 +1,62 @@
+{
+    "participant_persona": {
+        "participant_1": {
+            "name": "Sophia",
+            "age": 28,
+            "gender": "Female",
+            "personality": "Creative and expressive, enjoys arts and hobbies. Open to new experiences.",
+            "background": "I love huge paintings. I like collecting rocks. I love zumba. I like collectible dragon ball z figures. I love the smell of beans."
+        },
+        "participant_2": {
+            "name": "Liam",
+            "age": 32,
+            "gender": "Male",
+            "personality": "Disciplined and cultured, values routine and enjoys classic music. Practical and focused on goals.",
+            "background": "My favorite food is steak. I only listen to opera. I get up at 4am every day. I have never been to Canada. I live in a condo."
+        }
+    },
+    "messages": [
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "Hi, I love huge paintings. I also like collecting rocks and love zumba. I'm a fan of collectible dragon ball z figures. I love the smell of beans. What are some of your interests?"
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "Hi, I like steak, I only listen to opera, I wake up at 4am every day, I have never been to Canada, and I live in a condo."
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "I love steak too! I've never been to opera, but I've heard good things. I'm not a morning person so I can't imagine getting up at 4am every day. I've never been to Canada either. I used to live in a condo, but I now live in a house."
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "That's cool. I'm glad you like steak. Opera is really good, you should give it a try. I'm not really a morning person either, but I've found that it helps me to get a jump on the day. I've always wanted to go to Canada, but I've never had the chance. I like living in a condo, it's small and easy to take care of."
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "I'll have to give opera a try sometime. I'm glad that you've found something that works for you in the morning. I'm sure you'll get to Canada someday. I like condos too, they're great for people who are busy and don't have a lot of time to take care of a house."
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "Yeah, I think you'll like opera. It's really beautiful and inspiring. I'm glad that I'm able to get up early in the morning, it really helps me to be productive. I know I'll get to Canada eventually, I just have to save up some money first. I think condos are great for people who are busy and don't have a lot of time to take care of a house."
+            }
+        }
+    ]
+}
