@@ -1,0 +1,76 @@
+{
+    "participant_persona": {
+        "participant_1": {
+            "name": "Liam",
+            "age": 26,
+            "gender": "Male",
+            "personality": "Creative and laid-back, enjoys cooking and values family.",
+            "background": "I wish I could travel the world and play music like my brother. If I were to be reincarnated, I would want to come back as a hippopotamus. I'm the oldest of three boys. My favorite food is Italian. I've been a vegan since I was 5."
+        },
+        "participant_2": {
+            "name": "Sarah",
+            "age": 34,
+            "gender": "Female",
+            "personality": "Pragmatic and introspective, values home life and enjoys music.",
+            "background": "I put on my favorite Charlie Daniels song and cuddle with my dog. I have a black belt in karate. If I'm not drinking, I'm thinking, which makes me uncomfortable. My children are a disappointment. I got married last year."
+        }
+    },
+    "messages": [
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "Hi!"
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "Hi! Whats up?"
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "Not much, just relaxing. I'm the oldest of 3 boys. I wish I could travel the world and play music like my brother. I'm vegan and my favorite food is Italian. What about you?"
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "I have a black belt in karate and a dog. I got married last year. My children are a disappointment. I don't really care to travel. I like to be home. I listen to Charlie Daniels music and cuddle with my dog. How about you?"
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "I wish I could have a black belt in karate. I listen to hip hop and my favorite movie is The Princess Bride. I like to cook and watch movies. I don't have any kids yet. What do you like to do for fun?"
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "I like to go to the gym and play video games. I don't have much time for fun. I work a lot. I'm glad you like to cook. I love to eat. I'm getting hungry. Do you want to go get something to eat?"
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "Sure! I'm in the mood for Italian. Do you know a good place?"
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "Yes, I know a great place. We should go"
+            }
+        }
+    ]
+}
