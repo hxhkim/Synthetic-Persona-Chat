@@ -1,0 +1,83 @@
+{
+    "participant_persona": {
+        "participant_1": {
+            "name": "Emily",
+            "age": 22,
+            "gender": "Female",
+            "personality": "Creative and enthusiastic, loves sharing her passions and connecting with others.",
+            "background": "I am a music student who is ready to start my day, but my car is acting up. My favorite band is Bon Jovi. I write children's books. I watch football with my husband and discuss our fantasy team. I listen to music in my hearse before starting my day."
+        },
+        "participant_2": {
+            "name": "Jake",
+            "age": 28,
+            "gender": "Male",
+            "personality": "Friendly and outgoing, enjoys hands-on activities and loves spending time outdoors.",
+            "background": "I love my dogs, they are the best. I enjoy spending a lot of money on my hobbies. I'm a homeowner who can fix your computer. I crashed my favorite RC car into a tree. I'm an active person who enjoys working with my hands and spending time outdoors."
+        }
+    },
+    "messages": [
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "Good morning! I'm a music student and ready to start my day, but my car is acting up."
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "Morning!  I am an active person who enjoys working with my hands and spending time outdoors.  I'm a home owner who can fix your computer. What type of music do you play?"
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "I play drums and write children's books.  I also watch football with my husband and discuss our fantasy team."
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "That's cool!  I'm a big football fan too.  I just crashed my favorite RC car into a tree.  It was a bummer, but I was able to fix it."
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "Oh no!  I'm glad you were able to fix it.  I was actually listening to some Bon Jovi before I started my day."
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "Bon Jovi is great!  I love their music.  I've been spending a lot of money on my hobbies lately.  I love my dogs, they are the best."
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "That's awesome!  I love dogs too.  I'm a little jealous of your hobbies.  I wish I had more time to spend on mine."
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "You're welcome to come and hang out with me and my dogs sometime.  We could play some music or work on our hobbies together."
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "That sounds like a lot of fun!  I'd love to do that sometime.  Thanks for the offer!"
+            }
+        }
+    ]
+}

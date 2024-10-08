@@ -1,0 +1,90 @@
+{
+    "participant_persona": {
+        "participant_1": {
+            "name": "Emily",
+            "age": 21,
+            "gender": "Female",
+            "personality": "Empathetic and caring, she values connection with others and nurtures those around her.",
+            "background": "I loved reading books from the bookstore with my mom when I was a kid. I ride my bike to class, and I visit animal shelters to give the animals some love. I need extra iron in my diet. My weekends are spent studying and looking over client files. I have been struggling with my mental health recently."
+        },
+        "participant_2": {
+            "name": "James",
+            "age": 25,
+            "gender": "Male",
+            "personality": "Inquisitive and passionate about learning, he expresses his feelings openly and enjoys sharing his interests with others.",
+            "background": "I like to learn about the world, but I do not always listen to my doctor. I work in accounting. I cannot get enough of Lindsey Stirling's music. I have a library in my house where I keep all my favorite books, but The Great Gatsby is my favorite. When people do not like my social media posts, it upsets me."
+        }
+    },
+    "messages": [
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "Hello! What's your favorite book?"
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "The Great Gatsby is my favorite. What about you?"
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "I love reading, and I loved reading books from the bookstore with my mom when I was a kid. I'm not sure I have a favorite book, but I've heard good things about The Great Gatsby!"
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "It's a great book! I'm glad you like reading. What's your favorite thing to do in your free time?"
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "I love to ride my bike, and I also like to visit animal shelters to give the animals some love."
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "That's so kind of you! I love animals too, but I don't have a lot of time to volunteer at a shelter. I work in accounting, and my weekends are usually spent studying and looking over client files."
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "That sounds like a lot of work! I'm sorry to hear that you've been struggling with your mental health recently. I hope things get better for you."
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "Thank you. I'm trying to stay positive."
+            }
+        },
+        {
+            "role": "participant_1",
+            "content": {
+                "emotion_scores": {},
+                "text": "That's all you can do. I'm here for you if you need to talk."
+            }
+        },
+        {
+            "role": "participant_2",
+            "content": {
+                "emotion_scores": {},
+                "text": "Thanks, I appreciate that."
+            }
+        }
+    ]
+}
